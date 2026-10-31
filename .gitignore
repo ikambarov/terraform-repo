@@ -1,2 +1,4 @@
 credentials.txt
 *.swp
+
+.terraform.lock.hcl
